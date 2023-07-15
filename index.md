@@ -17,4 +17,4 @@ Stigma; Health equity; HIV; Social determinants of health; Ethnographic field Wo
 * Chevening Scholarship, Foreign & Commonwealth Office, UK. 2010. 
 
 ## Grants
-* Graduate Research Development Grant ($1,050), Minnesota Population Center. 2022.
+* Graduate Research Development Grant ($1,070), Minnesota Population Center. 2022.
