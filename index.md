@@ -6,7 +6,6 @@ Before I Joined the U of M, I had worked for several child development and human
 ## Research Interest Keywords
 Stigma; Health equity; HIV; Social determinants of health; Ethnographic field Work; Mixed methods; Computational Social Science
 
-
 ## Education
 **M.A** Conflict, Security and Development, University of London, King's College.  
 **B.Sc.** Statistics and Data Science, Korea National Open University.  
@@ -19,3 +18,6 @@ Stigma; Health equity; HIV; Social determinants of health; Ethnographic field Wo
 ## Grants
 * Robert Wood Johnson Foundation Grant ($250,000), Consultant, Project: Creating data visualizations to understand the impact of structural racism on anti-Asian hate crime during COVID-19 and to mitigate its effects (PI: Sruthi Chandrasekaran)” 2023.
 * Graduate Research Development Grant ($1,070), Minnesota Population Center. 2022.
+
+## Service
+2024 - 2026   Council Member, Minnesota Council for HIV/AIDS Care and Prevention (Needs Assessment & Evaluation Committee)
