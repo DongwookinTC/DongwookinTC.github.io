@@ -16,7 +16,7 @@ Stigma; Health equity; HIV; Social determinants of health; Ethnographic field Wo
 * Chevening Scholarship, Foreign & Commonwealth Office, UK. 2010. 
 
 ## Grants
-* Robert Wood Johnson Foundation Grant ($250,000), Consultant, Project: Creating data visualizations to understand the impact of structural racism on anti-Asian hate crime during COVID-19 and to mitigate its effects (PI: Sruthi Chandrasekaran)” 2023.
+* Robert Wood Johnson Foundation Grant ($250,000), Consultant, Project: Creating data visualizations to understand the impact of structural racism on anti-Asian hate crime during COVID-19 and to mitigate its effects (PI: Sruthi Chandrasekaran) 2023.
 * Graduate Research Development Grant ($1,070), Minnesota Population Center. 2022.
 
 ## Service
